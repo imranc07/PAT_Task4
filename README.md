@@ -1,4 +1,5 @@
-Q1: Create a program class called circle with constructor which will take a list as an argument for the task. The List is[10,501,22,37,100,999,87,351].
+Q1: Create a program class called circle with constructor which will take a list as an argument for the task.
+The List is[10,501,22,37,100,999,87,351].
 
 Q2: Create proper member variables inside the task if required and use them when necessary. For example for this task create a class private variable named pi=3.141.
 
